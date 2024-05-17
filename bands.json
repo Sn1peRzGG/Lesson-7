@@ -1,0 +1,113 @@
+[
+   {
+	 "id": 2,
+	 "soloist": "Serj Tankian",
+	 "bandName": "SOAD",
+	 "participants": ["Serj Tankian", "Shavo Odadjian", "Daron Vartan Malakian", "John Dolmayan"],
+	 "tracks": [
+		{
+			"name": "Lonely Day",
+			"duration": 167
+		},
+		{
+			"name": "Chop Suey!",
+			"duration": 212
+		},
+		{
+			"name": "Sugar",
+			"duration": 153
+		},
+		{
+			"name": "Toxicity",
+			"duration": 219
+		}]
+   },
+   {
+	"id": 3,
+	"soloist": "James Alan Hetfield",
+	"bandName": "Metallica",
+	"participants": ["Kirk Lee Hammett", "James Alan Hetfield", "Roberto Agustín Miguel Santiago Samuel Trujillo Veracruz", "Lars Ulrich"],
+	"tracks": [
+	   {
+		   "name": "Master of Puppets",
+		   "duration": 313
+	   },
+	   {
+		   "name": "Fuel",
+		   "duration": 270
+	   },
+	   {
+		   "name": "The Unforgiven",
+		   "duration": 386
+	   },
+	   {
+		   "name": "Nothing Else Matters",
+		   "duration": 243
+	   }]
+  	},
+	{
+		"id": 5,
+		"soloist": "2D",
+		"bandName": "Gorillaz",
+		"participants": ["Murdoc Niccals", "2D", "Russel Hobbs", "Noodle"],
+		"tracks": [
+		  {
+		   "name": "Kids with Guns",
+		   "duration": 226
+		  },
+		  {
+		   "name": "Feel Good Inc",
+		   "duration": 222
+		  },
+		  {
+		   "name": "Clint Eastwood",
+		   "duration": 269
+		  }]
+	},
+	{
+		"id": 12,
+		"soloist": "Kurt Donald Cobain",
+		"bandName": "Nirvana",
+		"participants": ["Kurt Donald Cobain", "Krist Anthony Novoselić", "David Eric Grohl"],
+		"tracks": [
+		  {
+		   "name": "Smells Like Teen Spirit",
+		   "duration": 301
+		  },
+		  {
+		   "name": "Come As You Are",
+		   "duration": 228
+		  },
+		  {
+		   "name": "Heart-Shaped Box",
+		   "duration": 279
+		  },
+		  {
+			"name": "Lithium",
+			"duration": 257
+		   }]
+	},
+	{
+		"id": 23,
+		"soloist": "Francis Albert Sinatra",
+		"bandName": "Frank Sinatra",
+		"participants": ["Francis Albert Sinatra"],
+		"tracks": [
+		  {
+		   "name": "Strangers in the Night",
+		   "duration": 145
+		  },
+		  {
+		   "name": "Downtown",
+		   "duration": 135
+		  },
+		  {
+		   "name": "The Girl from Ipanema",
+		   "duration": 180
+		  },
+		  {
+			"name": "Change Partners",
+			"duration": 160
+		   }]
+	}
+ ]
